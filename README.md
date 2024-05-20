@@ -15,8 +15,7 @@ This project follows a  microservices, client-server architectures, consisting o
 - **web-portal** - client Application that provides the UI
 
 # Getting Started
-- Clone the repository: `git clone https://github.com/amira921/Todo-List-Microservices `
-- Navigate to the project directory: `cd ./Todo-List-Microservices`
+- Clone the repository: `git clone https://github.com/avishkarwalampalle/Todo_List
 - Start Apache, MySQL, from Xampp
 Install dependencies: mvn install
 - Update application.properties files
